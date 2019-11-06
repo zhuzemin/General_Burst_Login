@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+   <!-- Export of tamperdata transacions -->
+   <tdRequests>
+<tdRequest uri="https://cas.ryerson.ca/login"><tdStartTime>11:50:40.729</tdStartTime>
+<tdStartTimeMS>1571197840729</tdStartTimeMS>
+<tdElapsedTime>13378</tdElapsedTime>
+<tdTotalElapsedTime>13378</tdTotalElapsedTime>
+<tdStatus>401</tdStatus>
+<tdStatusText>401</tdStatusText><tdRequestMethod>POST</tdRequestMethod>
+<tdContentSize>-1</tdContentSize>
+<tdMimeType>text/html</tdMimeType>
+<tdRequestHeaders>
+<tdRequestHeader name="Host">
+cas.ryerson.ca</tdRequestHeader>
+<tdRequestHeader name="User-Agent">
+Mozilla/5.0 (Windows NT 6.3; rv:36.0) Gecko/20100101 Firefox/56.04</tdRequestHeader>
+<tdRequestHeader name="Accept">
+text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8</tdRequestHeader>
+<tdRequestHeader name="Accept-Language">
+en,en-US;q=0.8,ja;q=0.6,zh-CN;q=0.4,zh;q=0.2</tdRequestHeader>
+<tdRequestHeader name="Accept-Encoding">
+gzip, deflate, br</tdRequestHeader>
+<tdRequestHeader name="Referer">
+https://cas.ryerson.ca/login</tdRequestHeader>
+<tdRequestHeader name="Cookie">
+CASROUTE=.cas1; TS0159bd76=01445df28193c1c04b640539f12edb18492f6538a0d2d6791499eb1f1b62a87bb8172d2882b333bcedf701079d0d2efa3549ef7558b642049b35629f23baa3dce91214e6a2</tdRequestHeader>
+<tdRequestHeader name="Connection">
+keep-alive</tdRequestHeader>
+</tdRequestHeaders><tdPostHeaders><tdPostHeader name="Content-Type">
+application/x-www-form-urlencoded
+</tdPostHeader>
+<tdPostHeader name="Content-Length">
+1608
+</tdPostHeader>
+</tdPostHeaders>
+<tdPostElements>
+<tdPostElement name="username">
+test
+</tdPostElement>
+<tdPostElement name="password">
+pwd
+</tdPostElement>
+<tdPostElement name="execution">
+5348e80a-26b1-46f8-8161-2e667259d4ee_ZXlKaGJHY2lPaUpJVXpVeE1pSXNJblI1Y0NJNklrcFhWQ0o5LkpCZUxFNldMOHN0eG9iZmpudkF6Tlp2T2w2K0VlVkx2VDhSWmx1NjBHMklqNktyNm5zQURwQWVSVm5yL2hoYnQ1QXZRelpxeXUwb0NJWTNjV3JXVWJ6cW5JSGR6eGkrN3VpWFArNGtETmNjQzhHZkpiM3dkOVgra2s4bFIzN0tUa1JxUTYxRzNMV2RWSEdZY0RYZW9PcithZ2JGdlhkMG43aGRwaUlMSmYrRHArVU11czdUem5odWhCd2N4Znc5NVduU2ltZVhYYlA5NDJ1MnJoSmpWam9XeGoyTjJJS0lKVjdLS0NiTHBXalVSdzJuL2VrcjlucU5ObitrbVkvSGd2TzducllPbERVb0hzRnA1V1ltRFVkMVUxd0RVMkxRS1RMcVViZE9vdHJnRnhMZytkQkozc1N0LzlVcTdyaEdjZDQxdjNrUlZtaGVwY242L3NJSXBWNTFydVlNRUhMK2tZdTdOUjZwUmF3WExnMy9HZWlRcWVXbVlGUm95VVlPeFZZVHNwdUJUa3VBMGU2UHNnMmx3dGZoRG9xSnJBN2M5MVRlY0gwdHA2Y2pWUnllcG44cXBza2RJTGZTa0pHYW1lN0FRKzRSRDlicG5HZjFuUi9EZnF2bXB0dTVRQ3RaQVVoQzd3bmh5d3BTVXFDd1ozd2QydWV6U296bFp1aEEveVl6bG5zcDNycGdnWkVQWFFROUcwemthd3JBWmovMGMyU3o1Z1VDeWx2S2tTZWVZbFZkbVgwbm5nMzlpZFV0VFFDdnN5OElFcGdSQTdJTUoyNksxSzRQMjlDYzJxTXVtcCtidUJsSmxOWW80R25BZFFwZSt2RWxjM2Z2UmpGMm90TFNLUVROd3pIU0Z2NGhoQTljR1p1dEt5SmZjNHlCUXR4ays3RUxDSERHbzAvZllqMzNHR2ZQdnI5eHQ1aGFRNExUNmpraCsrMDVTVE52RGR0dm1UMUVnOGFMYWF6N0xmSGFVUDEvZ050SjQwQTdpUzNmOFV4ZUcyTSs0OUJLdTdoYnVRQVZxTnNmMytNZWFpT2RXQ1liUEZabzQxemhHTVBWSE5QaTk0bjVHOFRXVFBub2NuY3RXZ1JJUFhVZTltV3Fjb0htQS9ydExNeWhrUGJtQUpwbjhSRFRTNjloeFozYzhncC9MZGdoSVF2dEU3d2p6SE5UTGZHRnBFZ2JpdjJXc2tYYkRsTll1MXNlTzlCZHNXTWtpczl5VVpEUWo5Z3VmaER5QU40U3RLbStQeDZLZ2ZNTS9QT2xxUytIVmgwd3pqNEI2S3pZajNiWHVHdk9wYWNmSlpSQU05d1k0a3BUQXBncHFxaUU9LmQ1NjBNRl9pM3ktbEZiWGVYdG9hZHhuSkNnR0hHY05oSks5WUJMb01rQklRQmdfdWhqNTNNQzRJTmoyakhTbE5vSEZjc29QS2llWExYRkJuQXhoanhR
+</tdPostElement>
+<tdPostElement name="_eventId">
+submit
+</tdPostElement>
+<tdPostElement name="submit">
+Log+in
+</tdPostElement>
+</tdPostElements>
+<tdResponseHeaders><tdResponseHeader name="Date">
+Wed, 16 Oct 2019 03:50:46 GMT
+</tdResponseHeader>
+<tdResponseHeader name="Cache-Control">
+no-cache, no-store, max-age=0, must-revalidate
+</tdResponseHeader>
+<tdResponseHeader name="Pragma">
+no-cache
+</tdResponseHeader>
+<tdResponseHeader name="Expires">
+0
+</tdResponseHeader>
+<tdResponseHeader name="X-Content-Type-Options">
+nosniff
+</tdResponseHeader>
+<tdResponseHeader name="X-XSS-Protection">
+1; mode=block
+</tdResponseHeader>
+<tdResponseHeader name="Content-Type">
+text/html;charset=UTF-8
+</tdResponseHeader>
+<tdResponseHeader name="Content-Language">
+en
+</tdResponseHeader>
+<tdResponseHeader name="Vary">
+Strict-Transport-Security,X-Content-Type-Options,X-XSS-Protection
+</tdResponseHeader>
+<tdResponseHeader name="Strict-Transport-Security">
+max-age=16070400; includeSubDomains
+</tdResponseHeader>
+<tdResponseHeader name="x-frame-options">
+ALLOW-FROM https://my.ryerson.ca/
+</tdResponseHeader>
+<tdResponseHeader name="Content-Security-Policy">
+default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self' data:; frame-ancestors https://my.ryerson.ca; report-uri /csp-report-receiver/csp-report-uri
+</tdResponseHeader>
+<tdResponseHeader name="Keep-Alive">
+timeout=5, max=50
+</tdResponseHeader>
+<tdResponseHeader name="Connection">
+Keep-Alive
+</tdResponseHeader>
+<tdResponseHeader name="Set-Cookie">
+TS0159bd76=01445df28181502c3785624b7082bf6ddeb0835db7bd58fd27c714b878513f08959d380e2e1472bb1cd2093025ff91c7c5bcf07f951eee91f1fe0366cb473102287928054b; Path=/; Secure; HTTPOnly
+</tdResponseHeader>
+<tdResponseHeader name="Transfer-Encoding">
+chunked
+</tdResponseHeader>
+</tdResponseHeaders>
+</tdRequest>
+</tdRequests>
