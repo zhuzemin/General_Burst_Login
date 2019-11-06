@@ -256,7 +256,7 @@ class Ui_MainWindow(object):
 
     def retranslateUi(self, MainWindow):
         _translate = QtCore.QCoreApplication.translate
-        MainWindow.setWindowTitle(_translate("MainWindow", "Ryerson University Burst"))
+        MainWindow.setWindowTitle(_translate("MainWindow", "General Burst Login"))
         self.groupBox.setTitle(_translate("MainWindow", "Accounts"))
         self.pushButton_AccountsBrowser.setText(_translate("MainWindow", "Browser"))
         self.groupBox_Proxies.setTitle(_translate("MainWindow", "Proxies"))
